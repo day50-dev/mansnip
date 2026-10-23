@@ -8,9 +8,7 @@ When LLMs use the Internet instead of local documentation on the computer it's r
 
 Get your models to use the right documentation, locally, for the software you actually have, effeciently.
 
-**Mansnip**, part of the [DAY50](https://day50.dev) suite of open-source tools for AI workflows, solves the problem of irrelevant documentation going to the context window.
-
-You can intelligently put only the parts of manpages you care about into your context window:
+Intelligently put only the parts of manpages you care about into your context window:
 
 ```bash
 $ uvx mansnip --llm bash bind
@@ -21,6 +19,8 @@ And your terminal window:
 ```bash
 $ uvx mansnip bash bind
 ```
+
+**Mansnip**, part of the [DAY50](https://day50.dev) suite of open-source tools for AI workflows, solves the problem of irrelevant documentation going to the context window.
 
 Compare the token cost of various approaches for finding the documentation for bash's complete command: 
 
