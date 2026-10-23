@@ -42,6 +42,7 @@ Just `pip/pipx/uv tool install mansnip`.
 
 This software has been in development for many years and has a classic pitch I made in 2020. It's too good to let go.
 
+### Original pitch
 
 <p align="center">
 
