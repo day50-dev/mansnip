@@ -4,9 +4,7 @@
 <a href=https://pypi.org/project/mansnip><img src=https://badge.fury.io/py/mansnip.svg/></a>  
 </p>
 
-When LLMs use the Internet instead of the local documentation on the computer its running on, they make all kinds of mistakes: compatibility and deprecated usage, missing obvious things. 
-
-context7 fixes this only for things in context7. What about everything else? 
+When LLMs use the Internet instead of local documentation on the computer it's running on, they make all kinds of mistakes: compatibility and deprecated usage, missing obvious things. 
 
 Get your models to use the right documentation, locally, for the software you actually have, effeciently.
 
