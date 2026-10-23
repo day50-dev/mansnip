@@ -34,13 +34,14 @@ $ mansnip bash complete | token-count               # mansnip without llm featur
 $ mansnip --llm bash complete | token-count         # with llm compaction!
 1624
 ```
-That's a 98% reduction! Sweet.
+That's a **98%** reduction! 
 
-There's also a ready-to-go MCP server for it in `mcp-server.py`. 
+There's also an MCP server in `mcp-server.py`. 
 
-Just `pip/pipx/uv tool install mansnip`
+Just `pip/pipx/uv tool install mansnip`.
 
-## My classic 2020 pitch below!
+This software has been in development for many years and has a classic pitch I made in 2020. It's too good to let go.
+
 
 <p align="center">
 
